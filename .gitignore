@@ -1,0 +1,7 @@
+# here is gitignore file for the project
+
+# Ignore node_modules
+node_modules/
+venv/
+# Ignore log files
+*.log
